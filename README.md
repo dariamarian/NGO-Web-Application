@@ -1,1 +1,1 @@
-# NGO-Web-Application
+# collective-project
